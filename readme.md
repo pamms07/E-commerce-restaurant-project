@@ -1,2 +1,2 @@
-# Ecommerce_Restaurant_Project-main
+# Ecommerce Restaurant web application 
 
